@@ -21,7 +21,7 @@ _Useful tips when navigating through your repository._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Resolve duplicate issues
+## Step 01: Resolve duplicate issues
 
 _Welcome to the course :tada:_
 
