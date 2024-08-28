@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Connect the dots in a GitHub repository  --- to fix issue #2
+# Connect the dots in a GitHub repository  --- to fix issue #3
 
 _Useful tips when navigating through your repository._
 
